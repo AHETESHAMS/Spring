@@ -1,0 +1,12 @@
+package com.bridgelabz.DependencyInjectionDemo;
+
+public class Bike implements Vehicle
+{
+
+	public void drive() 
+	{
+		System.out.println("Bike is Working..");
+		
+	}
+
+}
