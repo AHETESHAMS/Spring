@@ -9,7 +9,7 @@ public class Car implements Vehicle
 	private Tyre tyre;
 	public void drive() 
 	{
-		System.out.println("Car is Working.."+tyre.getBrand());
+		System.out.println("Car is Working.. "+tyre.getBrand());
 		
 	}
 	
